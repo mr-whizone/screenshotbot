@@ -1,4 +1,4 @@
-# [ScreenShot Bot](https://tx.me/ScreenShotTGBot)
+# [ScreenShot Bot]
 > Telegram Bot For Screenshot Generation.
 
 ## Description
